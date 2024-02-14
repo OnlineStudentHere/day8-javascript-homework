@@ -1,2 +1,2 @@
 # day8-javascript-homework
-Day8 ClassWork/HomeWork
+Day8 JavaScript HomeWork
